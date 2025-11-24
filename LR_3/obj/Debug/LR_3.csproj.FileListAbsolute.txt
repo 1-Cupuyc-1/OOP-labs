@@ -1,0 +1,7 @@
+C:\Users\geras\OneDrive\Desktop\LR_3\bin\Debug\LR_3.exe.config
+C:\Users\geras\OneDrive\Desktop\LR_3\bin\Debug\LR_3.exe
+C:\Users\geras\OneDrive\Desktop\LR_3\bin\Debug\LR_3.pdb
+C:\Users\geras\OneDrive\Desktop\LR_3\obj\Debug\LR_3.csproj.AssemblyReference.cache
+C:\Users\geras\OneDrive\Desktop\LR_3\obj\Debug\LR_3.csproj.CoreCompileInputs.cache
+C:\Users\geras\OneDrive\Desktop\LR_3\obj\Debug\LR_3.exe
+C:\Users\geras\OneDrive\Desktop\LR_3\obj\Debug\LR_3.pdb
